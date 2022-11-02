@@ -6,9 +6,15 @@ title: "Publications"
 
 Popular
 -------
+
+
+[Manifesto for a Product Mindset in Agile Development][tweakers2022]{:target="_blank"}. Tweakers Developers Summit, 2022. Conference talk.
+
+[Manifesto for a Product Mindset in Agile Development][devopsdays2022]{:target="_blank"}. DevOpsDays Amsterdam, 2022. Conference talk.
+
 [How we work: BizDevOps][sbpbizdevops]{:target="_blank"}. Schuberg Philis, 2022.
 
-[BizDevOps: Bridging the Dominant Divide between Business and IT][devopsdays2020]{:target="_blank"}. DevOpsDays 2020. Keynote talk.
+[BizDevOps: Bridging the Dominant Divide between Business and IT][devopsdays2020]{:target="_blank"}. DevOpsDays Amsterdam, 2020. Keynote talk.
 
 [BizDevOps: Bridging the Dominant Divide between the Business and IT—Or: Why DevOps Success Needs a Successor][bizdevopsstory]{:target="_blank"}. Medium, 2020. *Selected by the Medium curators for publication in the Programming section*
 
@@ -41,6 +47,8 @@ H. van der Schuur, S. Jansen, S. Brinkkemper et al. [On the Challenge of Creatin
 H. van der Schuur. [SKU: Software Vendor Meets End-user --- On the Utilization of Service Software Knowledge in a Software Supply Network][masterthesis]{:target="_blank"}. Master thesis. Utrecht University, 2008.
 *Graded with a 9 (out of 10). Nominated for the Dutch National Thesis Award*
 
+[tweakers2022]: https://tweakers.net/partners/devsummit2022/1694/henkvandenschuur/
+[devopsdays2022]: https://devopsdays.org/events/2022-amsterdam/program/henk-van-der-schuur
 [sbpbizdevops]: https://schubergphilis.com/en/how-we-work/bizdevops 
 [devopsdays2020]: https://devopsdays.org/events/2020-amsterdam/program/henk-van-der-schuur/
 [bizdevopsstory]: https://stories.schubergphilis.com/bizdevops-bridging-that-dominant-divide-between-business-and-it-c1194297a706
