@@ -3,10 +3,8 @@ permalink: /publications/
 title: "Publications"
 ---
 
-
 Popular
 -------
-
 
 [Manifesto for a Product Mindset in Agile Development][tweakers2022]{:target="_blank"}. Tweakers Developers Summit, 2022. Conference talk.
 
@@ -30,6 +28,7 @@ Popular
 
 Scientific
 ----------
+
 H. van der Schuur, E. van de Ven, R. de Jong, D. Schunselaar, H.A. Reijers, M. Overeem, M. de Graaf, S. Jansen and S. Brinkkemper.
 [NEXT: Generating Tailored ERP Cloud Applications from Ontological Enterprise Models][poem17]{:target="_blank"}. In PoEM'17: Proceedings of the 10th IFIP WG 8.1. Working Conference on the Practice of Enterprise Modeling.
 Springer, 2017, pp. 283--298.
