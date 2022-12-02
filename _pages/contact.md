@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /contact/
+title: "Contact"
 ---
 
 🌍 In a world rife with opportunism and promising more than IT can deliver, 100% is hard to believe. Because it is unconditional. It has no shades of grey, not one millimeter of slack. 100% is absolute magnificence. And it is rare.
