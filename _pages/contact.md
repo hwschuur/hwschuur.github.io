@@ -11,9 +11,11 @@ Areas of expertise: Mission-critical IT, Product Management, Software Production
 
 Feel free to reach out!
 
-[mail][mail]{:target="_blank"}
-[twitter][twitter]{:target="_blank"}
-[linkedin][linkedin]{:target="_blank"}
+[📥 mail][mail]{:target="_blank"}
+
+[🐤 twitter][twitter]{:target="_blank"}
+
+[🤝 linkedin][linkedin]{:target="_blank"}
 
 [cv]: /assets/cv-hwschuur.pdf
 [phdthesis]: https://dspace.library.uu.nl/handle/1874/213256

@@ -50,12 +50,12 @@
       {% endif %}
 
       {% if author.email %}
-        <li>
+        <!--<li>
           <a href="mailto:{{ author.email }}" rel="me" class="u-email">
             <meta itemprop="email" content="{{ author.email }}" />
             <i class="fa-solid fa-envelope-open"></i>{% if author.descriptions %}<span class="label">{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</span>{% endif %}
           </a>
-        </li>
+        </li>-->
       {% endif %}
 
       {% if author.keybase %}
@@ -67,11 +67,11 @@
       {% endif %}
 
       {% if author.twitter %}
-        <li>
+        <!--<li>
           <a href="https://twitter.com/{{ author.twitter }}" target="_blank" itemprop="sameAs" rel="nofollow noopener noreferrer me">
             <i class="fa-brands fa-twitter"></i>{% if author.descriptions %}<span class="label">Twitter</span>{% endif %}
           </a>
-        </li>
+        </li>-->
       {% endif %}
 
       {% if author.facebook %}
@@ -83,11 +83,11 @@
       {% endif %}
 
       {% if author.linkedin %}
-        <li>
+        <!--<li>
           <a href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank" itemprop="sameAs" rel="nofollow noopener noreferrer me">
             <i class="fa-brands fa-linkedin-in"></i>{% if author.descriptions %}<span class="label">LinkedIn</span>{% endif %}
           </a>
-        </li>
+        </li>-->
       {% endif %}
 
       {% if author.xing %}
