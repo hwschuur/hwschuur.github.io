@@ -7,7 +7,7 @@ title: "Contact"
 
 🙇🏻‍♂️ I'm an IT executive whose skills and experience encompass the end-to-end development of new products and services in mission-critical environments. I have a strong reputation for getting things done, with a keen eye for detail, and without losing the personal touch with colleagues and stakeholders. I'm a passionate quartermaster who loves to simplify complex challenges and to drive change at the intersection of technology, business, and people. I hold [a PhD in Information Science][phdthesis]{:target="_blank"} from Utrecht University (2011). You can download my resume [here][cv]{:target="_blank"}.
 
-Areas of expertise: Mission-critical IT, Product Management, Software Production, BizDevOps, Innovation
+Areas of expertise: Mission-critical IT, Product Management, Software Production, BizDevOps, Innovation.
 
 Feel free to reach out!
 
