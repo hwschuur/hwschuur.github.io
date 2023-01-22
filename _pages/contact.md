@@ -12,7 +12,7 @@ Areas of expertise: Mission-critical IT, Product Management, Software Production
 Feel free to reach out!
 
 * [mail][mail]{:target="_blank"}
-* [twitter][twitter]{:target="_blank"}
+* [mastodon][mastodon]{:target="_blank"} ([twitter][twitter]{:target="_blank"})
 * [linkedin][linkedin]{:target="_blank"}
 
 [cv]: /assets/cv-hwschuur.pdf
@@ -20,4 +20,5 @@ Feel free to reach out!
 [sbp]: https://schubergphilis.com/
 [mail]: mailto:hwschuur@gmail.com
 [twitter]: https://twitter.com/hwschuur
+[mastodon]: https://mastodon.social/@hwschuur
 [linkedin]: https://www.linkedin.com/in/hwschuur
