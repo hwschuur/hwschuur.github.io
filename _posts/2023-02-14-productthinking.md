@@ -7,6 +7,6 @@ storylink: https://stories.schubergphilis.com/be-more-than-a-product-owner-start
 talklink: https://youtu.be/Jsz1dOJFWpo?t=11061
 ---
 
-Finally took the time to write a piece based on my talk at Tweakers and [talklink](DevOpsDays Amsterdam) last year. 
+Finally took the time to write a piece based on my talk at Tweakers and [DevOpsDays Amsterdam](talklink) last year. 
 
-You can read it [storylink](here).
+You can read it [here](storylink).
