@@ -7,7 +7,7 @@ I'm an IT executive whose skills and experience encompass driving and delivering
 
 I'm a passionate quartermaster who loves to build and deliver new products and services in vital industries and impactful environments. I hold [a PhD in Information Science][phdthesis]{:target="_blank"} from Utrecht University (2011).
 
-*Areas of expertise*: Business-critical IT, Product management, Software production, BizDevOps, Innovation
+Areas of expertise: Business-critical IT, Product management, Software production, BizDevOps, Innovation
 
 You can download my resume [here][cv]{:target="_blank"}.
 
