@@ -63,7 +63,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  avatar : "/assets/images/bio-photo.png"
+  avatar : "/assets/images/bio-photo-front.png"
   bio    : "Customer Director at Schuberg Philis. Software Production Enthusiast. Pragmatic Perfectionist."
   twitter: "hwschuur"
   linkedin: "hwschuur"
