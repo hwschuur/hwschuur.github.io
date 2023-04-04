@@ -49,15 +49,6 @@
         </li>
       {% endif %}
 
-      {% if author.email %}
-        <!--<li>
-          <a href="mailto:{{ author.email }}" rel="me" class="u-email">
-            <meta itemprop="email" content="{{ author.email }}" />
-            <i class="fa-solid fa-envelope-open"></i>{% if author.descriptions %}<span class="label">{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</span>{% endif %}
-          </a>
-        </li>-->
-      {% endif %}
-
       {% if author.keybase %}
         <li>
           <a href="https://keybase.io/{{ author.keybase }}" target="_blank" itemprop="sameAs" rel="nofollow noopener noreferrer me">
@@ -66,28 +57,12 @@
         </li>
       {% endif %}
 
-      {% if author.twitter %}
-        <!--<li>
-          <a href="https://twitter.com/{{ author.twitter }}" target="_blank" itemprop="sameAs" rel="nofollow noopener noreferrer me">
-            <i class="fa-brands fa-twitter"></i>{% if author.descriptions %}<span class="label">Twitter</span>{% endif %}
-          </a>
-        </li>-->
-      {% endif %}
-
       {% if author.facebook %}
         <li>
           <a href="https://www.facebook.com/{{ author.facebook }}" target="_blank" itemprop="sameAs" rel="nofollow noopener noreferrer me">
             <i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i>{% if author.descriptions %}<span class="label">Facebook</span>{% endif %}
           </a>
         </li>
-      {% endif %}
-
-      {% if author.linkedin %}
-        <!--<li>
-          <a href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank" itemprop="sameAs" rel="nofollow noopener noreferrer me">
-            <i class="fa-brands fa-linkedin-in"></i>{% if author.descriptions %}<span class="label">LinkedIn</span>{% endif %}
-          </a>
-        </li>-->
       {% endif %}
 
       {% if author.xing %}
