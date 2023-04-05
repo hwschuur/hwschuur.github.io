@@ -25,6 +25,11 @@ search: false
 atom_feed:
   hide                   : true # true, false (default)
 
+analytics:
+  google:
+    tracking_id: G-M8FJLTPT2Q
+    anonymize_ip: true
+
 
 # Build settings
 markdown: kramdown
