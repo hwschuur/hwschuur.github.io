@@ -85,7 +85,6 @@
 
       &:hover {
         color: $link-color-hover;
-        text-decoration: none !important;
       }
 
       &.current,
@@ -571,4 +570,8 @@
   li ul li ul li ul li ul li ul > li a {
     padding-left: 3.25rem
   }
+}
+// disable underlining navigation
+nav.pagination li a:hover {
+  text-decoration: none !important;
 }
