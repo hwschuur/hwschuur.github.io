@@ -1,4 +1,4 @@
-<!-- begin _includes/seo.html -->
+
 {%- if site.url -%}
   {%- assign seo_url = site.url | append: site.baseurl -%}
 {%- endif -%}
@@ -51,112 +51,98 @@
 <meta name="description" content="{{ seo_description }}">
 
 {% if author.name %}
-  <meta name="author" content="{{ author.name | default: author }}">
+    <meta name="author" content="{{ author.name | default: author }}">
   {% if og_type == "article" %}
-  <meta property="article:author" content="{{ author.name | default: author }}">
+    <meta property="article:author" content="{{ author.name | default: author }}">
   {% endif %}
 {% endif %}
 
-<meta property="og:type" content="{{ og_type }}">
-<meta property="og:locale" content="{{ site.locale | replace: "-", "_" | default: "en_US" }}">
-<meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
-<meta property="og:url" content="{{ canonical_url }}">
-
+    <meta property="og:type" content="{{ og_type }}">
+    <meta property="og:locale" content="{{ site.locale | replace: "-", "_" | default: "en_US" }}">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
+    <meta property="og:url" content="{{ canonical_url }}">
 {% if seo_description %}
-  <meta property="og:description" content="{{ seo_description }}">
-  <meta property="og:image" content="https://hwschuur.github.io/assets/images/bio-photo.png?w=200" />
-  <meta property="og:image:width" content="200" />
-  <meta property="og:image:height" content="200" />
-  <meta property="og:image:alt" content="" />
+    <meta property="og:description" content="{{ seo_description }}">
+    <meta property="og:image" content="https://hwschuur.github.io/assets/images/bio-photo.png?w=200" />
+    <meta property="og:image:width" content="200" />
+    <meta property="og:image:height" content="200" />
+    <meta property="og:image:alt" content="" />
 {% endif %}
-
 {% if page_large_image %}
-  <meta property="og:image" content="{{ page_large_image }}">
+    <meta property="og:image" content="{{ page_large_image }}">
 {% elsif page_teaser_image %}
-  <meta property="og:image" content="{{ page_teaser_image }}">
+    <meta property="og:image" content="{{ page_teaser_image }}">
 {% endif %}
-
 {% if site.twitter.username %}
-  <meta name="twitter:site" content="@{{ site.twitter.username | replace: "@", "" }}">
-  <meta name="twitter:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
-  <meta name="twitter:description" content="{{ seo_description }}">
-  <meta name="twitter:url" content="{{ canonical_url }}">
-
+    <meta name="twitter:site" content="@{{ site.twitter.username | replace: "@", "" }}">
+    <meta name="twitter:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
+    <meta name="twitter:description" content="{{ seo_description }}">
+    <meta name="twitter:url" content="{{ canonical_url }}">
   {% if page_large_image %}
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="{{ page_large_image }}">
   {% else %}
     <meta name="twitter:card" content="summary">
     {% if page_teaser_image %}
-      <meta name="twitter:image" content="{{ page_teaser_image }}">
+    <meta name="twitter:image" content="{{ page_teaser_image }}">
     {% endif %}
   {% endif %}
-
   {% if author_twitter %}
     <meta name="twitter:creator" content="@{{ author_twitter }}">
   {% endif %}
 {% endif %}
-
 {% if page.date %}
-  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+    <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
 {% endif %}
-
 {% if og_type == "article" and page.last_modified_at %}
-  <meta property="article:modified_time" content="{{ page.last_modified_at | date_to_xmlschema }}">
+    <meta property="article:modified_time" content="{{ page.last_modified_at | date_to_xmlschema }}">
 {% endif %}
-
 {% if site.facebook %}
   {% if site.facebook.publisher %}
     <meta property="article:publisher" content="{{ site.facebook.publisher }}">
   {% endif %}
-
   {% if site.facebook.app_id %}
     <meta property="fb:app_id" content="{{ site.facebook.app_id }}">
   {% endif %}
 {% endif %}
-
-<link rel="canonical" href="{{ canonical_url }}">
-
+    <link rel="canonical" href="{{ canonical_url }}">
 {% if paginator.previous_page %}
-  <link rel="prev" href="{{ paginator.previous_page_path | absolute_url }}">
+    <link rel="prev" href="{{ paginator.previous_page_path | absolute_url }}">
 {% endif %}
 {% if paginator.next_page %}
-  <link rel="next" href="{{ paginator.next_page_path | absolute_url }}">
+    <link rel="next" href="{{ paginator.next_page_path | absolute_url }}">
 {% endif %}
-
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    {% if site.social.type == "Organization" %}
-      "@type": "Organization",
-      "url": {{ '/' | absolute_url | jsonify }}{% if site.og_image %},
-      "logo": {{ site_og_image | jsonify }}{% endif %}
-    {% else %}
-      "@type": "Person",
-      "name": {{ site.social.name | default: site.name | jsonify }},
-      "url": {{ '/' | absolute_url |jsonify }}{% if site.social.links %},
-      "sameAs": {{ site.social.links | jsonify }}{% endif %}
-    {% endif %}
-  }
-</script>
-
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        {% if site.social.type == "Organization" %}
+          "@type": "Organization",
+          "url": {{ '/' | absolute_url | jsonify }}{% if site.og_image %},
+          "logo": {{ site_og_image | jsonify }}{% endif %}
+        {% else %}
+          "@type": "Person",
+          "name": {{ site.social.name | default: site.name | jsonify }},
+          "url": {{ '/' | absolute_url |jsonify }}{% if site.social.links %},
+          "sameAs": {{ site.social.links | jsonify }}{% endif %}
+        {% endif %}
+      }
+    </script>
 {% if site.google_site_verification %}
-  <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
+    <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
 {% endif %}
 {% if site.bing_site_verification %}
-  <meta name="msvalidate.01" content="{{ site.bing_site_verification }}">
+    <meta name="msvalidate.01" content="{{ site.bing_site_verification }}">
 {% endif %}
 {% if site.alexa_site_verification %}
-  <meta name="alexaVerifyID" content="{{ site.alexa_site_verification }}">
+    <meta name="alexaVerifyID" content="{{ site.alexa_site_verification }}">
 {% endif %}
 {% if site.yandex_site_verification %}
-  <meta name="yandex-verification" content="{{ site.yandex_site_verification }}">
+    <meta name="yandex-verification" content="{{ site.yandex_site_verification }}">
 {% endif %}
 {% if site.naver_site_verification %}
-  <meta name="naver-site-verification" content="{{ site.naver_site_verification }}">
+    <meta name="naver-site-verification" content="{{ site.naver_site_verification }}">
 {% endif %}
 {% if site.baidu_site_verification %}
-  <meta name="baidu-site-verification" content="{{ site.baidu_site_verification }}">
+    <meta name="baidu-site-verification" content="{{ site.baidu_site_verification }}">
 {% endif %}
-<!-- end _includes/seo.html -->
