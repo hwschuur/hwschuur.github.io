@@ -35,7 +35,6 @@
 {%- else -%}
   {%- assign og_type = "website" -%}
 {%- endif -%}
-      <title>{{ seo_title | default: site.title }}{% if paginator %}{% unless paginator.page == 1 %} {{ title_separator }} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}{% endif %}</title>
     <meta name="description" content="{{ seo_description }}">{% if author.name %}
     <meta name="author" content="{{ author.name | default: author }}">
   {% if og_type == "article" %}
@@ -73,6 +72,9 @@
     <link rel="canonical" href="{{ canonical_url }}">{% if paginator.previous_page %}
     <link rel="prev" href="{{ paginator.previous_page_path | absolute_url }}">{% endif %}{% if paginator.next_page %}
     <link rel="next" href="{{ paginator.next_page_path | absolute_url }}">{% endif %}
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <link href="https://github.com/hwschuur" rel="me">
+    <link href="https://mastodon.social/@hwschuur" rel="me">
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
