@@ -7,23 +7,14 @@
 {% assign title = post.title %}
 
 <div class="{{ include.type | default: 'list' }}__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">{% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src="{{ teaser | relative_url }}" alt="">
-      </div>
-    {% endif %}
-    <h3 class="archive__item-title no_toc" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.url | relative_url }}">{{ title }}</a><a class="externallink" href="{{ post.link }}" rel="permalink">
-          <i class="fa-solid fa-square-arrow-up-right"></i>
-        </a>
-      {% else %}
-        <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
-    </h3>
-    {% include page__meta.html type=include.type %}
-    {% if post.excerpt %}
+      </div>{% endif %}
+    <h3 class="archive__item-title no_toc" itemprop="headline">{% if post.link %}
+        <a href="{{ post.url | relative_url }}">{{ title }}</a><a class="externallink" href="{{ post.link }}" rel="permalink"><i class="fa-solid fa-square-arrow-up-right"></i></a>{% else %}
+        <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>{% endif %}
+    </h3>{% include page__meta.html type=include.type %}{% if post.excerpt %}
     <p class="archive__item-excerpt" itemprop="description"><a class="excerptlink" href="{{ post.url | relative_url }}">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</a></p>{% endif %}
   </article>
 </div>

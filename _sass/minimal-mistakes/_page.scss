@@ -120,7 +120,7 @@ body {
     font-size: 0.8em;
   }
 
-  i.fa-arrow-up-right-from-square, a.externallink {
+  a.externallink {
     margin-left: 5px;
     text-decoration: none;
     display:inline;
@@ -363,7 +363,7 @@ body {
 
   .archive__item-title {
     margin-top: 0;
-
+    display: inline;
   }
 
   .archive__subtitle {
