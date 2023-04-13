@@ -1,5 +1,5 @@
 ---
-title: "BizDevOps: The way to bring technology to the heart of business (and build bridges along the way)"
+title: "BizDevOps: The way to bring technology to the heart of business"
 link: https://schubergphilis.com/en/stories/bizdevops-the-way-to-bring-technology-to-the-heart-of-business-and-build-bridges-along-the-way
 tags: 
     - link
