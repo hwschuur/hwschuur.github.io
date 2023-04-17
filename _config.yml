@@ -16,6 +16,7 @@
 
 locale: "en-US"
 title: Henk van der Schuur
+title_separator: —
 email: hwschuur@gmail.com
 description: Henk van der Schuur >- # this means to ignore newlines until "baseurl:"
 seo_description: Henk van der Schuur
