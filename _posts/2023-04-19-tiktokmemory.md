@@ -1,5 +1,5 @@
 ---
-title: "Another reason to remove TikTok from your phone: it deteriorates your memory"
+title: "Another reason to ditch TikTok from your life: it deteriorates your memory"
 link: https://arxiv.org/abs/2302.03714
 tags: 
     - link
