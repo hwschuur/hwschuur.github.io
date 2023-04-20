@@ -42,7 +42,7 @@
 
   > * {
     margin-top: 1em;
-    margin-bottom: 1em;
+    margin-bottom: 0;
   }
 
   h2,
@@ -57,7 +57,7 @@
   p,
   li {
     font-family: $sans-serif;
-    font-size: $type-size-7;
+    font-size: $type-size-5;
     line-height: 1.5;
   }
 
@@ -123,9 +123,8 @@
 
 .author__avatar {
   display: block;
-  vertical-align: top;
-  width: 36px;
-  height: 36px;
+  width: 72px;
+  height: 72px;
 
   @include breakpoint($large) {
     display: block;
@@ -149,12 +148,14 @@
   //padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
+  font-size: $type-size-6x;
 
   @include breakpoint($large) {
     display: block;
     width: 100%;
     padding-left: 0;
     padding-right: 0;
+    font-size: $type-size-7;
   }
 
   a {
