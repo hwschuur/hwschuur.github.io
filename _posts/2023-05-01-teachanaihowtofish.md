@@ -17,7 +17,7 @@ My highlights and takeaways:
 6. Also: this is not just an arms race. It's like an arms race to strengthen every other arms race, because whatever other arms race between people, AI makes better abilities to do all of those things (again: 'double exponential' curve)
 7. We currently lack the technology to know/verify/prove what knowledge is in an LLM (i.e., what answers a tool like ChatGPT could return given any question). Still, these models are deployed to the general public.
 
-Exciting times! We must now prioritize and focus on the 'non-functionals' (e.g. the explainability, auditability, security, morality) of AI and work towards a 'Non-Proliferation Treaty' for AI. Good thing the [EU AI Act](https://artificialintelligenceact.eu){:target="_blank" rel="noreferrer noopener"} is underway.
+Exciting times! We must now prioritize and focus on the 'non-functionals' (e.g. the explainability, auditability, security, morality) of AI and work towards a 'Non-Proliferation Treaty' for AI. Good thing the [EU AI Act](https://artificialintelligenceact.eu) is underway.
 
 > Give a man a fish and you feed him for a day, 
 >
