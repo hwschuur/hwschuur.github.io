@@ -1,5 +1,6 @@
 ---
 title: "Another reason to ditch TikTok from your life: it deteriorates your memory"
+permalink: /tiktokmemory/
 link: https://arxiv.org/abs/2302.03714
 tags: 
     - link
