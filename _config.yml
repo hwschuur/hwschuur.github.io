@@ -17,7 +17,7 @@
 locale: "en-US"
 title: Henk van der Schuur
 email: hwschuur@gmail.com
-description: Henk van der Schuur >- # this means to ignore newlines until "baseurl:"
+description: Henk van der Schuur — # this means to ignore newlines until "baseurl:"
 seo_description: Henk van der Schuur
 seo_title: Henk van der Schuur
 minimal_mistakes_skin: dirt # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -35,7 +35,7 @@ analytics:
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
+permalink: /:categories/:year/:month/:day/:title/
 paginate: 4 # amount of posts to show
 paginate_path: /page:num/
 timezone: nl # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
