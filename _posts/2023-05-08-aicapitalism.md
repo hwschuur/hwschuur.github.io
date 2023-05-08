@@ -1,6 +1,6 @@
 ---
 title: "Is there a way for AI to do something other than serve capitalism?"
-link: https://arxiv.org/abs/2302.03714
+link: https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey
 tags: 
     - link
 ---
