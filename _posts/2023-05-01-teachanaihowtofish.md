@@ -1,5 +1,5 @@
 ---
-title: "AI: What happens when you teach an AI how to fish?"
+title: "What happens when you teach an AI how to fish?"
 tags: 
     - story
     - ai

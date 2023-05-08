@@ -1,5 +1,5 @@
 ---
-title: "AI: Industry races ahead of academia"
+title: "Industry races ahead of academia"
 permalink: /industryracesahead/
 link: https://aiindex.stanford.edu/report/
 tags: 
