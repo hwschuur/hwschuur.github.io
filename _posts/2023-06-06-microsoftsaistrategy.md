@@ -1,5 +1,5 @@
 ---
-title: "Microsoft's AI Strategy: Copilot everywhere"
+title: "Microsoft's AI strategy: Copilot everywhere"
 link: https://blogs.windows.com/windowsdeveloper/2023/05/23/bringing-the-power-of-ai-to-windows-11-unlocking-a-new-era-of-productivity-for-customers-and-developers-with-windows-copilot-and-dev-home/
 tags: 
     - link
