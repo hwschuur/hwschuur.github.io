@@ -10,3 +10,5 @@ Microsoft has been relatively late regarding recent platform shifts. Microsoft i
 In fact, Nadella seems to be betting strongly on AI to get back into the game. Microsoft appears to have a crash program to add generative AI to absolutely everything (e.g. VSCode, Bing, Windows, Office) in the form of a 'Copilot'—it's umbrella brand for any generative features.
 
 Because hey, who needs a colorful search engine when you have access to a smart digital assistant? (also: RIP Cortana)
+
+Update 21/06: [There you go](https://www.wired.com/story/microsofts-satya-nadella-is-betting-everything-on-ai/).
