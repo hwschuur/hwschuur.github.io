@@ -33,6 +33,11 @@
       {% assign page_end = paginator.page | plus: 2 %}
     {% endif %}
 
+    {% if paginator.page == 1 %}
+    {% assign page_end = paginator.total_pages | minus: 2 %}
+    {% else %}
+    {% endif %}
+
     {% for index in (page_start..page_end) %}
       {% if index == paginator.page %}
         <li><a href="{{ site.paginate_path | replace: ':num', index | replace: '//', '/' | relative_url }}" class="disabled current">{{ index }}</a></li>
