@@ -14,13 +14,13 @@ You can download my resume [here][cv].
 Feel free to reach out!
 
 * [mail][mail]
-* [mastodon][mastodon] ([twitter][twitter])
+* [mastodon][mastodon] ([twitter/X][twitterx])
 * [linkedin][linkedin]
 
 [cv]: /assets/cv-hwschuur.pdf
 [phdthesis]: https://dspace.library.uu.nl/handle/1874/213256
 [sbp]: https://schubergphilis.com/
 [mail]: mailto:hwschuur@gmail.com
-[twitter]: https://twitter.com/hwschuur
+[twitterx]: https://twitter.com/hwschuur
 [mastodon]: https://mastodon.social/@hwschuur
 [linkedin]: https://www.linkedin.com/in/hwschuur
