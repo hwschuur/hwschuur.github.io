@@ -6,9 +6,9 @@ title: "Publications"
 Popular
 -------
 
-[Manifesto for a Product Mindset in Agile Development][tweakers2022]. Tweakers Developers Summit, 2022. Conference talk.
+[Be More than a Product Owner — Start Product Thinking][bemorethanapo]. Medium, 2023.
 
-[Manifesto for a Product Mindset in Agile Development][devopsdays2022]. DevOpsDays Amsterdam, 2022. Conference talk.
+Manifesto for a Product Mindset in Agile Development. [Tweakers Developers Summit][tweakers2022] and [DevOpsDays Amsterdam][devopsdays2022], 2022. Conference talks.
 
 [How we work: BizDevOps][sbpbizdevops]. Schuberg Philis, 2022.
 
@@ -46,13 +46,14 @@ H. van der Schuur, S. Jansen, S. Brinkkemper et al. [On the Challenge of Creatin
 H. van der Schuur. [SKU: Software Vendor Meets End-user --- On the Utilization of Service Software Knowledge in a Software Supply Network][masterthesis]. Master thesis. Utrecht University, 2008.
 *Graded with a 9 (out of 10). Nominated for the Dutch National Thesis Award*
 
+[bemorethanapo]: https://medium.com/@hwschuur/be-more-than-a-product-owner-start-product-thinking-8d5786fdb4cb
 [tweakers2022]: https://tweakers.net/partners/devsummit2022/1694/henkvandenschuur/
 [devopsdays2022]: https://devopsdays.org/events/2022-amsterdam/program/henk-van-der-schuur
 [sbpbizdevops]: https://schubergphilis.com/en/how-we-work/bizdevops 
 [devopsdays2020]: https://devopsdays.org/events/2020-amsterdam/program/henk-van-der-schuur/
-[bizdevopsstory]: https://stories.schubergphilis.com/bizdevops-bridging-that-dominant-divide-between-business-and-it-c1194297a706
+[bizdevopsstory]: https://medium.com/@hwschuur/bizdevops-bridging-that-dominant-divide-between-business-and-it-c1194297a706
 [aabyebyetm]: https://content.hwschuur.nl/byebye.pdf
-[byebyetmstory]: https://stories.schubergphilis.com/bye-bye-time-materials-7cdee48d3ac0
+[byebyetmstory]: https://medium.com/@hwschuur/bye-bye-time-materials-7cdee48d3ac0
 [sbpar]: https://annualreport2017.schubergphilis.com/article/ready-for-disruption-in-the-mobility-sector-business-lease
 [pss]: https://content.hwschuur.nl/pss.pdf
 [agcover]: https://content.hwschuur.nl/ag-cover.pdf
