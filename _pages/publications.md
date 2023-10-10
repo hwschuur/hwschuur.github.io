@@ -54,7 +54,7 @@ H. van der Schuur. [SKU: Software Vendor Meets End-user --- On the Utilization o
 [bizdevopsstory]: https://medium.com/@hwschuur/bizdevops-bridging-that-dominant-divide-between-business-and-it-c1194297a706
 [aabyebyetm]: https://content.hwschuur.nl/byebye.pdf
 [byebyetmstory]: https://medium.com/@hwschuur/bye-bye-time-materials-7cdee48d3ac0
-[sbpar]: https://annualreport2017.schubergphilis.com/article/ready-for-disruption-in-the-mobility-sector-business-lease
+[sbpar]: https://content.hwschuur.nl/sbp-ar2017.pdf
 [pss]: https://content.hwschuur.nl/pss.pdf
 [agcover]: https://content.hwschuur.nl/ag-cover.pdf
 [poem17]: https://content.hwschuur.nl/papers/poem17.pdf
