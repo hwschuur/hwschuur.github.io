@@ -13,9 +13,9 @@ You can download my resume [here][cv].
 
 Feel free to reach out!
 
-* [mail][mail]
-* [mastodon][mastodon] ([twitter/X][twitterx])
-* [linkedin][linkedin]
+* [Mail][mail]
+* [Mastodon][mastodon] ([twitter/X][twitterx]), [Threads][threads]
+* [LinkedIn][linkedin]
 
 [cv]: /assets/cv-hwschuur.pdf
 [phdthesis]: https://dspace.library.uu.nl/handle/1874/213256
@@ -23,4 +23,5 @@ Feel free to reach out!
 [mail]: mailto:hwschuur@gmail.com
 [twitterx]: https://twitter.com/hwschuur
 [mastodon]: https://mastodon.social/@hwschuur
+[threads]: https://www.threads.net/@hwschuur
 [linkedin]: https://www.linkedin.com/in/hwschuur
