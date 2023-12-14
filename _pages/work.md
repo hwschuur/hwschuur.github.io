@@ -49,13 +49,13 @@ H. van der Schuur. [SKU: Software Vendor Meets End-user --- On the Utilization o
 Guest lectures
 --------------
 
-Innovation in practice: Data & AI. Nyenrode, 2023.
+Innovation in practice: Data & AI. Nyenrode Business Universiteit, 2023.
 
 Software production and software product management. Utrecht University, 2014–2019.
 
 Method Engineering. Utrecht University, 2017–2018.
 
-Information Management. VU Amsterdam, 2017.
+Information Management. Vrije Universiteit Amsterdam, 2017.
 
 Software Architecture. Open University, 2015.
 
