@@ -1,10 +1,10 @@
 ---
-permalink: /publications/
-title: "Publications"
+permalink: /work/
+title: "Work"
 ---
 
-Popular
--------
+Popular publications
+--------------------
 
 [Be More than a Product Owner — Start Product Thinking][bemorethanapo]. Medium, 2023.
 
@@ -26,8 +26,8 @@ Manifesto for a Product Mindset in Agile Development. [Tweakers Developers Summi
 
 [Pakketleveranciers laks--Softwaremakers kijken te weinig naar praktijksituatie bij klanten][agcover]. Automatisering Gids, 19, 2011. *Featured cover article*
 
-Scientific
-----------
+Scientific publications
+-----------------------
 
 H. van der Schuur, E. van de Ven, R. de Jong, D. Schunselaar, H.A. Reijers, M. Overeem, M. de Graaf, S. Jansen and S. Brinkkemper.
 [NEXT: Generating Tailored ERP Cloud Applications from Ontological Enterprise Models][poem17]. In PoEM'17: Proceedings of the 10th IFIP WG 8.1. Working Conference on the Practice of Enterprise Modeling.
@@ -45,6 +45,19 @@ H. van der Schuur, S. Jansen, S. Brinkkemper et al. [On the Challenge of Creatin
 
 H. van der Schuur. [SKU: Software Vendor Meets End-user --- On the Utilization of Service Software Knowledge in a Software Supply Network][masterthesis]. Master thesis. Utrecht University, 2008.
 *Graded with a 9 (out of 10). Nominated for the Dutch National Thesis Award*
+
+Guest lectures
+--------------
+
+Innovation in practice: Data & AI. Nyenrode, 2023.
+
+Software production and software product management. Utrecht University, 2014–2019.
+
+Method Engineering. Utrecht University, 2017–2018.
+
+Information Management. VU Amsterdam, 2017.
+
+Software Architecture. Open University, 2015.
 
 [bemorethanapo]: https://medium.com/@hwschuur/be-more-than-a-product-owner-start-product-thinking-8d5786fdb4cb
 [tweakers2022]: https://tweakers.net/partners/devsummit2022/1694/henkvandenschuur/
