@@ -69,7 +69,7 @@ plugins:
   - jekyll-redirect-from
 
 author:
-  avatar : "/assets/images/bio-photo-front.png"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "Customer Director at Schuberg Philis. Software Production Enthusiast. Pragmatic Perfectionist."
   twitter: "hwschuur"
   linkedin: "hwschuur"
