@@ -15,7 +15,6 @@ The lecture was reviewed with a 8,9 on average and is likely to get a follow-up 
 {% include figure image_path="https://media.licdn.com/dms/image/D4E22AQHUmGRoaDdqGw/feedshare-shrink_2048_1536/0/1700734633115?e=1711584000&v=beta&t=zA9f1mTsmkrqO_paguAyPl_R68KHB0MhrZgSIvRidgU" alt="Nyenrode guest lecture on Data & AI" %}
 
 
-
 <!-- {% include figure image_path="https://media.licdn.com/dms/image/D4E22AQFYp7jwB-UT9w/feedshare-shrink_800/0/1700734634068?e=1703721600&v=beta&t=ko6a7uQ7k5PQED67z4DP1OckhCWmgCZ5tfN-5mOmfUc" alt="Nyenrode guest lecture on Data & AI" %}
 
 {% include figure image_path="https://media.licdn.com/dms/image/D4E22AQHUmGRoaDdqGw/feedshare-shrink_800/0/1700734633873?e=1703721600&v=beta&t=bz6WQ0Ih6hXuVgehOuxtncmtfVWqA7KcoiO7pA3ZhdU" alt="Nyenrode guest lecture on Data & AI" %} -->
