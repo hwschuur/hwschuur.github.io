@@ -3,18 +3,18 @@ permalink: /contact/
 title: "Contact"
 ---
 
-I'm an IT executive who drives end-to-end strategic change at the intersection of technology, business, and people. I have a strong reputation for getting things done, with a keen eye for detail, without losing the personal touch with colleagues and stakeholders.
+I lead changes that blend technology with business and people skills. I'm known for getting things done and paying attention to details while keeping a good relationship with my team and clients. 
 
-I'm a passionate quartermaster who loves to build and deliver new products and services in vital industries. I hold [a PhD in Information Science][phdthesis] (Utrecht University, 2011).
+I love creating and launching new tech products and services in vital sectors. I hold [a PhD in Information Science][phdthesis] (Utrecht University, 2011).
 
-Areas of expertise: Business-critical IT, Product management, Software production, BizDevOps, Innovation
+Areas of expertise: Business-critical IT, Product Management, Software Development, BizDevOps, Innovation
 
 You can download my resume [here][cv].
 
 Feel free to reach out!
 
 * [Mail][mail]
-* [Mastodon][mastodon] ([twitter/X][twitterx]), [Threads][threads]
+* [Mastodon][mastodon] ([twitter/X][twitterx], [Threads][threads], [Bluesky][bsky])
 * [LinkedIn][linkedin]
 
 [cv]: /assets/cv-hwschuur.pdf
@@ -24,4 +24,5 @@ Feel free to reach out!
 [twitterx]: https://twitter.com/hwschuur
 [mastodon]: https://mastodon.social/@hwschuur
 [threads]: https://www.threads.net/@hwschuur
+[bsky]: https://bsky.app/profile/hwschuur.bsky.social
 [linkedin]: https://www.linkedin.com/in/hwschuur
