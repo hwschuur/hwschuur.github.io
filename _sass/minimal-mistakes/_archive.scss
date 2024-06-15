@@ -469,8 +469,12 @@
 /* Place inside a single layout */
 
 .layout--single {
-  font-size: 0.8em;
+
 	.feature__wrapper {
 		display: inline-block;
 	}
+
+  .page__inner-wrap {
+    font-size: 0.8em;
+  }
 }
