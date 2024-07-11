@@ -6,6 +6,8 @@ title: "Work"
 Popular publications
 --------------------
 
+[Adding Soul to the System: Our Strive for DevOps Significance][devopsdays2024]. DevOpsDays Amsterdam, 2024.
+
 [Be More than a Product Owner — Start Product Thinking][bemorethanapo]. Medium, 2023.
 
 Manifesto for a Product Mindset in Agile Development. [Tweakers Developers Summit][tweakers2022] and [DevOpsDays Amsterdam][devopsdays2022], 2022. Conference talks.
@@ -59,6 +61,7 @@ Information Management. Vrije Universiteit Amsterdam, 2017.
 
 Software Architecture. Open University, 2015.
 
+[devopsdays2024]: https://devopsdays.org/events/2024-amsterdam/program/henk-van-der-schuur-hugo-trippaers/
 [bemorethanapo]: https://medium.com/@hwschuur/be-more-than-a-product-owner-start-product-thinking-8d5786fdb4cb
 [tweakers2022]: https://tweakers.net/partners/devsummit2022/1694/henkvandenschuur/
 [devopsdays2022]: https://devopsdays.org/events/2022-amsterdam/program/henk-van-der-schuur
