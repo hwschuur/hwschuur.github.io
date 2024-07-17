@@ -50,8 +50,9 @@ H. van der Schuur. [SKU: Software Vendor Meets End-user --- On the Utilization o
 
 Guest lectures
 --------------
+Advanced Program Zorgmanagement: Strategie & Digitale Transformatie. Nyenrode Business Universiteit, 2023--2024.
 
-Innovation in practice: Data & AI. Nyenrode Business Universiteit, 2023.
+Innovation in practice: Data & AI. Nyenrode Business Universiteit, 2023--2024.
 
 Software production and software product management. Utrecht University, 2014–2019.
 
