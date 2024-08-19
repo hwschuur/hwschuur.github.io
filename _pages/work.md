@@ -66,7 +66,8 @@ Software Architecture. Open University, 2015.
 [bemorethanapo]: https://medium.com/@hwschuur/be-more-than-a-product-owner-start-product-thinking-8d5786fdb4cb
 [tweakers2022]: https://tweakers.net/partners/devsummit2022/1694/henkvandenschuur/
 [devopsdays2022]: https://devopsdays.org/events/2022-amsterdam/program/henk-van-der-schuur
-[sbpbizdevops]: https://schubergphilis.com/en/how-we-work/bizdevops 
+[//]: # ([sbpbizdevops]: https://schubergphilis.com/en/how-we-work/bizdevops)
+[sbpbizdevops]: https://schubergphilis.com/en/bizdevops
 [devopsdays2020]: https://devopsdays.org/events/2020-amsterdam/program/henk-van-der-schuur/
 [bizdevopsstory]: https://medium.com/@hwschuur/bizdevops-bridging-that-dominant-divide-between-business-and-it-c1194297a706
 [aabyebyetm]: https://content.hwschuur.nl/byebye.pdf
