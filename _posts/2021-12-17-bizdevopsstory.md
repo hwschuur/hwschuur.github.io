@@ -9,4 +9,4 @@ tags:
 
 DevOps practices have had a huge positive impact on teamwork. But where's business? In this article, we show how we’re going beyond the success of #DevOps to tackle the divide between agile DevOps teams and business teams—and build IT solutions that get to the heart of business.
 
-{% include figure image_path="https://pbs.twimg.com/media/FGvC0E5XMAYsDi1?format=jpg&name=small" alt="BizDevOps" %}
+{% include figure image_path="/assets/images/posts/bizdevops.jpg" alt="BizDevOps" %}

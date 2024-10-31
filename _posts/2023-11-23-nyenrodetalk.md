@@ -10,9 +10,9 @@ Found it super valuable to learn the perspectives of healthcare professionals on
 
 The lecture was reviewed with a 8,9 on average and is likely to get a follow-up next year.
 
-{% include figure image_path="https://media.licdn.com/dms/image/D4E22AQFYp7jwB-UT9w/feedshare-shrink_2048_1536/0/1700734633128?e=1721260800&v=beta&t=p7QafimzhbPCn7WQ9VmsL_pqGJS_SSXReJW_DciA9C0" alt="Nyenrode guest lecture on Data & AI" %}
+{% include figure image_path="/assets/images/posts/nyenrode.jpg" alt="Nyenrode guest lecture on Data & AI" %}
 
-{% include figure image_path="https://media.licdn.com/dms/image/D4E22AQHUmGRoaDdqGw/feedshare-shrink_2048_1536/0/1700734633115?e=1721260800&v=beta&t=vNWnv_StMsOxWzWNxgpBccoWpzy8L6uDv8LKhaOjTjw" alt="Nyenrode guest lecture on Data & AI" %}
+{% include figure image_path="/assets/images/posts/nyenrode-2.jpg" alt="Nyenrode guest lecture on Data & AI" %}
 
 <!-- {% include figure image_path="https://media.licdn.com/dms/image/D4E22AQFYp7jwB-UT9w/feedshare-shrink_2048_1536/0/1700734633128?e=1711584000&v=beta&t=zsQSRhrscnZfQPuO3hhjbComKMNMVHClPpGAjaFptXU" alt="Nyenrode guest lecture on Data & AI" %}
 
