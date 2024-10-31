@@ -3,9 +3,9 @@ permalink: /contact/
 title: "Contact"
 ---
 
-I drive transformative changes by integrating technology with business acumen and people skills. I have a passion for creating and launching innovative tech products and services in vital sectors. Renowned for getting things done and paying attention to details, while keeping strong relationships with my team and clients. I hold [a PhD in Information Science][phdthesis] (Utrecht University, 2011).
+My role is about enabling people, facilitating growth, and connecting dots across complex challenges. I thrive on the power of new-world technology, guiding my team and customers to navigate and harness it effectively—without losing sight of the bigger picture. I believe vulnerability is strength, and transparency is essential. This fuels my approach to leadership, making me a sparring partner for strategic IT decisions and a trusted anchor for my team. I hold [a PhD in Information Science][phdthesis] (Utrecht University, 2011).
 
-Areas of expertise: Business-critical IT, Product Management, Software Development, BizDevOps, Innovation
+Areas of expertise: IT Strategy, Business Development, Product Management
 
 You can download my resume [here][cv].
 
