@@ -9,13 +9,12 @@ I hold [a PhD in Information Science][phdthesis] (Utrecht University, 2011).
 
 Areas of expertise: IT Strategy, Business Development, Product Management
 
-You can download my resume [here][cv].
-
 Feel free to reach out!
 
 * [Mail][mail]
-* [Mastodon][mastodon] ([twitter/X][twitterx], [Threads][threads], [Bluesky][bsky])
 * [LinkedIn][linkedin]
+* [Mastodon][mastodon] ([twitter/X][twitterx], [Threads][threads], [Bluesky][bsky])
+
 
 [cv]: /assets/cv-hwschuur.pdf
 [phdthesis]: https://dspace.library.uu.nl/handle/1874/213256
@@ -26,3 +25,5 @@ Feel free to reach out!
 [threads]: https://www.threads.net/@hwschuur
 [bsky]: https://bsky.app/profile/hwschuur.bsky.social
 [linkedin]: https://www.linkedin.com/in/hwschuur
+
+You can download my resume [here][cv].
