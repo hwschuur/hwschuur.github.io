@@ -4,7 +4,7 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
-{% assign title = post.title %}
+{% assign title = post.title | smartify %}
 
 <div class="{{ include.type | default: 'list' }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">{% if include.type == "grid" and teaser %}
