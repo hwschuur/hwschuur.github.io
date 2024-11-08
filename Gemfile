@@ -16,8 +16,10 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
   gem "jekyll-redirect-from"
+  gem "kramdown"
+  gem "liquid"
 end
 
 gem "webrick", "~> 1.7"
 
-gem "jekyll", "~> 3.9"
+gem "jekyll", "~> 3.10"
