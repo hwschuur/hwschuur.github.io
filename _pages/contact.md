@@ -13,14 +13,14 @@ Feel free to reach out!
 
 * [Mail][mail]
 * [LinkedIn][linkedin]
-* [Mastodon][mastodon] ([twitter/X][twitterx], [Threads][threads], [Bluesky][bsky])
+* [Mastodon][mastodon] ([X][x], [Threads][threads], [Bluesky][bsky])
 
 
 [cv]: /assets/cv-hwschuur.pdf
 [phdthesis]: https://dspace.library.uu.nl/handle/1874/213256
 [sbp]: https://schubergphilis.com/
 [mail]: mailto:hwschuur@gmail.com
-[twitterx]: https://twitter.com/hwschuur
+[x]: https://x.com/hwschuur
 [mastodon]: https://mastodon.social/@hwschuur
 [threads]: https://www.threads.net/@hwschuur
 [bsky]: https://bsky.app/profile/hwschuur.bsky.social
