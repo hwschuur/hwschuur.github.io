@@ -17,6 +17,6 @@
         {% if include.index %}</a>{% endif %}
       {% endif %}
     </p>
-    <div itemprop="text">{{ include.message | markdownify }}</div>
+    <div itemprop="text">{{ include.message | smartify | markdownify }}</div>
   </div>
 </article>

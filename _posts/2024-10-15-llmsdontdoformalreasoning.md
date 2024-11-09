@@ -1,5 +1,5 @@
 ---
-title: "LLMs don't do ‘formal reasoning’"
+title: "LLMs don't do 'formal reasoning'"
 link: https://arxiv.org/abs/2410.05229
 tags: 
     - link

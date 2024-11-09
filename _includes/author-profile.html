@@ -10,7 +10,7 @@
   <div class="author__content">{% if author.name %}
     <h3 class="author__name p-name" itemprop="name">
       <a class="u-url" rel="me" href="{{ author.home | default: '/' | absolute_url }}" itemprop="url">{{ author.name }}</a>
-    </h3>{% endif %}{% if author.bio %}<div class="author__bio p-note" itemprop="description">{{ author.bio | markdownify }}</div>{% endif %}
+    </h3>{% endif %}{% if author.bio %}<div class="author__bio p-note" itemprop="description">{{ author.bio | smartify | markdownify }}</div>{% endif %}
   </div>
   <div class="author__urls-wrapper">
     <ul class="author__urls social-icons">{% if author.location %}<li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">

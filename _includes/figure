@@ -3,7 +3,7 @@
        alt="{% if include.alt %}{{ include.alt }}{% endif %}">
   {%- if include.caption -%}
     <figcaption>
-      {{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}
+      {{ include.caption | smartify | markdownify | remove: "<p>" | remove: "</p>" }}
     </figcaption>
   {%- endif -%}
 </figure>
