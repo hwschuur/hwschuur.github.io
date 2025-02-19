@@ -20,6 +20,6 @@ group :jekyll_plugins do
   gem "liquid"
 end
 
-gem "webrick", "~> 1.7"
+# gem "webrick", "~> 1.7"
 
 gem "jekyll", "~> 3.10"
