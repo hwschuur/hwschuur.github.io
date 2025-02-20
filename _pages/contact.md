@@ -3,7 +3,7 @@ permalink: /contact/
 title: "Contact"
 ---
 
-My role is about enabling people, facilitating growth, and connecting dots across complex challenges. I thrive on the power of new-world technology, guiding customers to navigate and harness it effectively—without losing sight of the bigger picture. I believe vulnerability is strength, and transparency is essential. This fuels my approach to leadership, making me a sparring partner for strategic IT decisions and a trusted anchor for my teams. 
+My role is to empower people, drive growth, and bridge the gaps across complex challenges. I thrive on leveraging new technology, guiding clients to navigate and leverage its potential effectively. I believe that vulnerability is a strength and that transparency is essential. These values shape my leadership approach, making me a trusted partner for customers’ strategic IT decisions and a trusted pillar for my teams.
 
 I hold [a PhD in Information Science][phdthesis] (Utrecht University, 2011).
 
