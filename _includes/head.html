@@ -1,0 +1,6 @@
+<meta charset="utf-8">
+<title>{{ seo_title | default: site.title }}{% if paginator %}{% unless paginator.page == 1 %} — {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}{% endif %}</title>
+{% include seo.html %}
+{% unless site.atom_feed.hide %}<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">{% endunless %}   <script src="https://kit.fontawesome.com/dac1d6028f.js" crossorigin="anonymous"></script>
+    <script>document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';</script>{% if site.head_scripts %}{% for script in site.head_scripts %}
+    <script src="{{ script | relative_url }}"></script>{% endfor %}{% endif %}
