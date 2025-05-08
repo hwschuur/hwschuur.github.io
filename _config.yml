@@ -33,7 +33,7 @@ analytics:
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.27.0
 # Outputting
 permalink: /:categories/:year/:month/:day/:title/
 paginate: 5 # amount of posts to show
@@ -95,7 +95,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       related: false
 
 category_archive:
