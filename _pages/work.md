@@ -2,7 +2,6 @@
 permalink: /work/
 title: "Work"
 author_profile: false
-sidebar: false
 ---
 
 Popular publications
