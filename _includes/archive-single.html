@@ -15,6 +15,6 @@
         <a href="{{ post.url | relative_url }}">{{ title | smartify }}</a><a class="externallink" href="{{ post.link }}" rel="permalink">↗<!--<i class="fa-solid fa-arrow-turn-up"></i>--></a>{% else %}
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title | smartify }}</a>{% endif %}
     </h3>{% include page__meta.html type=include.type %}{% if post.excerpt %}
-    <p class="archive__item-excerpt" itemprop="description"><a class="excerptlink" href="{{ post.url | relative_url }}">{{ post.excerpt | smartify | markdownify | strip_html | truncate: 160 }}</a></p>{% endif %}
+    <p class="archive__item-excerpt" itemprop="description"><a class="excerptlink" href="{{ post.url | relative_url }}">{{ post.excerpt | smartify | markdownify | strip_html | truncatewords: 25 }}</a></p>{% endif %}
   </article>
 </div>

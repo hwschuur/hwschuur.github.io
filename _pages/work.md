@@ -53,9 +53,9 @@ Guest lectures
 --------------
 Advanced Program Zorgmanagement: Strategie & Digitale Transformatie. Nyenrode Business Universiteit, 2023--2024.
 
-Innovation in practice: Data & AI. Nyenrode Business Universiteit, 2023--2024.
+Innovation in Practice: Data & AI. Nyenrode Business Universiteit, 2023--2024.
 
-Software production and software product management. Utrecht University, 2014–2019.
+Software Production and Software Product Management. Utrecht University, 2014–2019.
 
 Method Engineering. Utrecht University, 2017–2018.
 
