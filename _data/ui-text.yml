@@ -15,7 +15,7 @@ en: &DEFAULT_EN
   menu_label                 : "Toggle menu"
   search_label               : "Toggle search"
   toc_label                  : "On this page"
-  ext_link_label             : "Open link ↗"
+  ext_link_label             : "↗"
   less_than                  : "less than"
   minute_read                : "minute read"
   share_on_label             : "Share on"
