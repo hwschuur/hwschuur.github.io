@@ -27,7 +27,7 @@ Manifesto for a Product Mindset in Agile Development. [Tweakers Developers Summi
 
 [Project Self-Service. Het beste van twee werelden][pss]. IPMA Projectie Magazine, 02--2013, 2013.
 
-[Pakketleveranciers laks--Softwaremakers kijken te weinig naar praktijksituatie bij klanten][agcover]. Automatisering Gids, 19, 2011. *Featured cover article*
+[Pakketleveranciers laks--Softwaremakers kijken te weinig naar praktijksituatie bij klanten][agcover]. Automatisering Gids, 19, 2011. *Featured cover article.*
 
 Scientific publications
 -----------------------
