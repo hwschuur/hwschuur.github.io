@@ -7,23 +7,23 @@ author_profile: false
 Popular publications
 --------------------
 
-[Adding Soul to the System: Our Strive for DevOps Significance][devopsdays2024]. DevOpsDays Amsterdam, 2024.
+[Adding Soul to the System: Our Strive for DevOps Significance][devopsdays2024]. DevOpsDays Amsterdam, 2024. *Duo talk.*
 
-[Be More than a Product Owner — Start Product Thinking][bemorethanapo]. Medium, 2023.
+[Be More than a Product Owner — Start Product Thinking][bemorethanapo]. Medium, 2023. *Story.*
 
-Manifesto for a Product Mindset in Agile Development. [Tweakers Developers Summit][tweakers2022] and [DevOpsDays Amsterdam][devopsdays2022], 2022. Conference talks.
+Manifesto for a Product Mindset in Agile Development. [Tweakers Developers Summit][tweakers2022] and [DevOpsDays Amsterdam][devopsdays2022], 2022. *Conference talks.*
 
 [How we work: BizDevOps][sbpbizdevops]. Schuberg Philis, 2022.
 
-[BizDevOps: Bridging the Dominant Divide between Business and IT][devopsdays2020]. DevOpsDays Amsterdam, 2020. Keynote talk.
+[BizDevOps: Bridging the Dominant Divide between Business and IT][devopsdays2020]. DevOpsDays Amsterdam, 2020. *Keynote talk.*
 
 [BizDevOps: Bridging the Dominant Divide between the Business and IT—Or: Why DevOps Success Needs a Successor][bizdevopsstory]. Medium, 2020. *Selected by the Medium curators for publication in the Programming section*
 
-[Bye Bye Time & Materials---Entering the Era of Agile, Value-based Agreements][aabyebyetm]. Agile Amsterdam, 2019. Conference talk.
+[Bye Bye Time & Materials---Entering the Era of Agile, Value-based Agreements][aabyebyetm]. Agile Amsterdam, 2019. *Conference talk.*
 
 [Bye Bye Time & Materials---Entering the Era of Agile, Value-based Agreements][byebyetmstory]. Medium, 2019. *Selected by the Medium curators for publication in the Software Engineering section.*
 
-[Ready for disruption in the mobility sector][sbpar]. Schuberg Philis, 2018. Annual Report 2017.
+[Ready for disruption in the mobility sector][sbpar]. Schuberg Philis, 2018. *Annual Report 2017.*
 
 [Project Self-Service. Het beste van twee werelden][pss]. IPMA Projectie Magazine, 02--2013, 2013.
 
