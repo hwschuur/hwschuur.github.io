@@ -13,7 +13,7 @@ Popular publications
 
 Manifesto for a Product Mindset in Agile Development. [Tweakers Developers Summit][tweakers2022] and [DevOpsDays Amsterdam][devopsdays2022], 2022. *Conference talks.*
 
-[How we work: BizDevOps][sbpbizdevops]. Schuberg Philis, 2022.
+[How we work: BizDevOps][sbpbizdevops]. Schuberg Philis, 2022. *Explainer.*
 
 [BizDevOps: Bridging the Dominant Divide between Business and IT][devopsdays2020]. DevOpsDays Amsterdam, 2020. *Keynote talk.*
 
@@ -25,7 +25,7 @@ Manifesto for a Product Mindset in Agile Development. [Tweakers Developers Summi
 
 [Ready for disruption in the mobility sector][sbpar]. Schuberg Philis, 2018. *Annual Report 2017.*
 
-[Project Self-Service. Het beste van twee werelden][pss]. IPMA Projectie Magazine, 02--2013, 2013.
+[Project Self-Service. Het beste van twee werelden][pss]. IPMA Projectie Magazine, 02--2013, 2013. *Article.*
 
 [Pakketleveranciers laks--Softwaremakers kijken te weinig naar praktijksituatie bij klanten][agcover]. Automatisering Gids, 19, 2011. *Featured cover article.*
 
