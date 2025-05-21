@@ -17,11 +17,11 @@ Manifesto for a Product Mindset in Agile Development. [Tweakers Developers Summi
 
 [BizDevOps: Bridging the Dominant Divide between Business and IT][devopsdays2020]. DevOpsDays Amsterdam, 2020. *Keynote talk.*
 
-[BizDevOps: Bridging the Dominant Divide between the Business and IT—Or: Why DevOps Success Needs a Successor][bizdevopsstory]. Medium, 2020. *Selected by the Medium curators for publication in the Programming section*
+[BizDevOps: Bridging the Dominant Divide between the Business and IT—Or: Why DevOps Success Needs a Successor][bizdevopsstory]. Medium, 2020. *Story selected by the Medium curators for publication in the Programming section*
 
 [Bye Bye Time & Materials---Entering the Era of Agile, Value-based Agreements][aabyebyetm]. Agile Amsterdam, 2019. *Conference talk.*
 
-[Bye Bye Time & Materials---Entering the Era of Agile, Value-based Agreements][byebyetmstory]. Medium, 2019. *Selected by the Medium curators for publication in the Software Engineering section.*
+[Bye Bye Time & Materials---Entering the Era of Agile, Value-based Agreements][byebyetmstory]. Medium, 2019. *Story selected by the Medium curators for publication in the Software Engineering section.*
 
 [Ready for disruption in the mobility sector][sbpar]. Schuberg Philis, 2018. *Annual Report 2017.*
 
