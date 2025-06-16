@@ -7,7 +7,7 @@ tags:
     - apple
 ---
  
-Interesting research from Apple Machine Learning Research asks the obvious but still-open question: do longer “chains of thought” mean actual reasoning, or are Large Reasoning Models (LRMs) still just very expensive parrots? 
+Interesting research from Apple Machine Learning Research asks the obvious but still-open question: do longer “chains of thought” mean "actual" "reasoning", or are Large Reasoning Models (LRMs) still just very expensive parrots? 
 
 They built a set of classic logic puzzles—Tower of Hanoi, river crossings, that sort of thing— and cranked up the difficulty. On easy settings, plain-vanilla LLMs often out-score their LRM cousins (the LRMs waste tokens narrating the obvious). At medium puzzle difficulty, LRMs pull ahead; their longer reasoning helps.
 
