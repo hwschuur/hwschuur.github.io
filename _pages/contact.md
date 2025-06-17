@@ -34,3 +34,5 @@ Feel free to reach out!
 [linkedin]: https://www.linkedin.com/in/hwschuur
 
 You can download my resume [here][cv].
+
+# ✽
