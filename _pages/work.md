@@ -7,6 +7,8 @@ author_profile: false
 Popular publications
 --------------------
 
+[Sovereignty Over Ceremony: How True Teams Thrive Without a Scrum Master][devopsdays2025]. DevOpsDays London, 2025. *Ignite talk.*
+
 [Adding Soul to the System: Our Strive for DevOps Significance][devopsdays2024]. DevOpsDays Amsterdam, 2024. *Duo talk.*
 
 [Be More than a Product Owner — Start Product Thinking][bemorethanapo]. Medium, 2023. *Story.*
@@ -63,6 +65,7 @@ Information Management. Vrije Universiteit Amsterdam, 2017.
 
 Software Architecture. Open University, 2015.
 
+[devopsdays2025]: https://devopsdays.org/events/2025-london/program/henk-van-der-schuur
 [devopsdays2024]: https://devopsdays.org/events/2024-amsterdam/program/henk-van-der-schuur-hugo-trippaers/
 [bemorethanapo]: https://medium.com/@hwschuur/be-more-than-a-product-owner-start-product-thinking-8d5786fdb4cb
 [tweakers2022]: https://tweakers.net/partners/devsummit2022/1694/henkvandenschuur/
