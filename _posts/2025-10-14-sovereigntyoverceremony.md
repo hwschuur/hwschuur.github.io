@@ -1,5 +1,5 @@
 ---
-title: Sovereignty Over Ceremony: How True Teams Thrive Without a Scrum Master
+title: Sovereignty Over Ceremony
 link: https://hwschuur.medium.com/sovereignty-over-ceremony-how-true-teams-thrive-without-a-scrum-master-53747c00edce
 tags: 
     - link
