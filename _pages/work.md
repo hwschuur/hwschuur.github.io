@@ -7,6 +7,8 @@ author_profile: false
 Popular publications
 --------------------
 
+[Sovereignty Over Ceremony: How True Teams Thrive Without a Scrum Master][sostrueteams]. Medium, 2025. *Story.*
+
 [Sovereignty Over Ceremony: How True Teams Thrive Without a Scrum Master][devopsdays2025]. DevOpsDays London, 2025. *Ignite talk.*
 
 [Adding Soul to the System: Our Strive for DevOps Significance][devopsdays2024]. DevOpsDays Amsterdam, 2024. *Duo talk.*
@@ -65,6 +67,7 @@ Information Management. Vrije Universiteit Amsterdam, 2017.
 
 Software Architecture. Open University, 2015.
 
+[sostrueteams]: https://hwschuur.medium.com/sovereignty-over-ceremony-how-true-teams-thrive-without-a-scrum-master-53747c00edce
 [devopsdays2025]: https://devopsdays.org/events/2025-london/program/henk-van-der-schuur
 [devopsdays2024]: https://devopsdays.org/events/2024-amsterdam/program/henk-van-der-schuur-hugo-trippaers/
 [bemorethanapo]: https://medium.com/@hwschuur/be-more-than-a-product-owner-start-product-thinking-8d5786fdb4cb
