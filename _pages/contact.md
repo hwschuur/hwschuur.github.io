@@ -9,7 +9,7 @@ sidebar: false
 
 I bring clarity to complexity by aligning people, purpose, and technology. I strive for excellence, built on trust and transparency. I believe that honest leadership and human connection are what make real progress possible. I hold [a PhD in Information Science][phdthesis] (Utrecht University, 2011).
 
-Areas of expertise: IT Strategy, Business Development, Product Management
+Skills: IT Strategy, Trusted Advisorship, Strategic Account Management (P&L responsible) New Business Development, Software Product Management, Agile Software Production, Team Building and Leadership, Critical Thinking
 
 {% include figure image_path="/assets/images/bio-photo-small.png" alt="That's me" %}
 
