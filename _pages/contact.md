@@ -9,7 +9,7 @@ sidebar: false
 
 I bring clarity to complexity by aligning people, purpose, and technology. I strive for excellence, built on trust and transparency. I believe that honest leadership and human connection are what make real progress possible. I hold [a PhD in Information Science][phdthesis] (Utrecht University, 2011).
 
-<span style="font-variant:small-caps;">**skills**: it strategy, trusted advisorship, strategic account management (p&l responsible), new business development, software product management, agile software production (bizdevops), team building and leadership, critical thinking</spa>
+<span style="font-variant:small-caps;">**skills**: it strategy, trusted advisorship, strategic account management (p&l responsible), new business development, software product management, agile software production (bizdevops), team building and leadership, critical thinking</span>
 
 {% include figure image_path="/assets/images/bio-photo-small.png" alt="That's me" %}
 
