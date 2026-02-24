@@ -1,5 +1,5 @@
 ---
-title: "AI Taxonomy—An Operational Framework for Precision in AI Discourse"
+title: "AI Taxonomy: An Operational Framework for Precision in AI Discourse"
 link: https://dropleaf.app/d/AlXez8scbd
 tags: 
     - ai
