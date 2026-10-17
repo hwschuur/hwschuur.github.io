@@ -41,3 +41,6 @@ $global-transition: none;
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
+
+/* Dark mode */
+@import "custom/dark-override";

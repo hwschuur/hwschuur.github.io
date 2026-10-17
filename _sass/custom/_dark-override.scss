@@ -1,0 +1,186 @@
+/* ==========================================================================
+   Dark mode overrides
+   Applied when html[data-theme="dark"] is set by dark-mode.js
+   Color values sourced from _sass/minimal-mistakes/skins/_dark.scss
+   ========================================================================== */
+
+// Dark skin color values
+$dm-bg:          #252a34;
+$dm-text:        #eaeaea;
+$dm-primary:     #00adb5;
+$dm-border:      mix(#fff, $dm-bg, 20%);
+$dm-code-bg:     mix(#000, $dm-bg, 15%);
+$dm-footer-bg:   mix(#000, $dm-bg, 30%);
+$dm-link:        mix($dm-primary, $dm-text, 40%);
+$dm-link-hover:  mix(#fff, $dm-link, 25%);
+$dm-link-vis:    mix(#000, $dm-link, 25%);
+$dm-muted:       mix(#fff, $dm-text, 20%);
+$dm-mast-hover:  mix(#000, $dm-text, 20%);
+
+html[data-theme="dark"] {
+  background-color: $dm-bg;
+
+  body {
+    color: $dm-text;
+  }
+
+  // Links
+  a {
+    color: $dm-link;
+
+    &:visited {
+      color: $dm-link-vis;
+    }
+
+    &:hover {
+      color: $dm-link-hover;
+    }
+  }
+
+  // Inline code
+  p > code,
+  a > code,
+  li > code,
+  figcaption > code,
+  td > code {
+    background: $dm-code-bg;
+  }
+
+  // Code blocks
+  pre {
+    background: $dm-code-bg;
+  }
+
+  // Blockquote accent
+  blockquote {
+    border-left-color: $dm-primary;
+  }
+
+  // Masthead
+  .masthead {
+    background-color: $dm-bg;
+    border-bottom-color: $dm-border;
+  }
+
+  .site-title {
+    color: $dm-text;
+
+    &:hover {
+      color: $dm-mast-hover;
+    }
+  }
+
+  // Greedy nav (desktop + hidden links dropdown)
+  .greedy-nav {
+    background: $dm-bg;
+
+    a {
+      color: $dm-text;
+
+      &:hover {
+        color: $dm-mast-hover;
+      }
+    }
+
+    .hidden-links {
+      background: $dm-bg;
+      border-color: $dm-border;
+
+      a {
+        color: $dm-text;
+
+        &:hover {
+          color: $dm-mast-hover;
+          background: mix(#fff, $dm-bg, 5%);
+        }
+      }
+    }
+
+    .navicon,
+    .navicon::before,
+    .navicon::after {
+      background: $dm-text;
+    }
+  }
+
+  // Footer
+  .page__footer {
+    background-color: $dm-footer-bg;
+    color: $dm-muted;
+
+    .fas,
+    .fab,
+    .far,
+    .fal {
+      color: $dm-muted;
+    }
+  }
+
+  // Sidebar
+  .sidebar {
+    border-color: $dm-border;
+  }
+
+  // Pagination
+  .pagination a {
+    color: $dm-muted;
+    border-color: $dm-border;
+
+    &:hover {
+      color: $dm-link-hover;
+    }
+
+    &.current {
+      background: $dm-primary;
+      color: #fff;
+    }
+  }
+
+  // Tables
+  table {
+    th {
+      background-color: mix(#fff, $dm-bg, 10%);
+      color: $dm-text;
+    }
+
+    tr:nth-child(even) {
+      background-color: mix(#fff, $dm-bg, 5%);
+    }
+  }
+
+  // Notices
+  .notice,
+  .notice--primary,
+  .notice--info,
+  .notice--warning,
+  .notice--danger,
+  .notice--success {
+    color: $dm-text;
+  }
+}
+
+/* ==========================================================================
+   Dark mode toggle button
+   ========================================================================== */
+
+.dark-mode-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: none;
+  padding: 0.25em 0.5em;
+  cursor: pointer;
+  font-size: 1em;
+  color: inherit;
+  outline: none;
+  line-height: 1;
+
+  &:hover {
+    opacity: 0.75;
+  }
+
+  i {
+    pointer-events: none;
+  }
+}

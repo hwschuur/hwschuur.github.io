@@ -1,0 +1,68 @@
+# MkDocs Configuration for hwschuur.nl Documentation
+# Run: pip install mkdocs mkdocs-material && mkdocs serve
+
+site_name: hwschuur.nl Documentation
+site_description: Documentation for the hwschuur.nl Jekyll website
+site_author: Henk van der Schuur
+
+# Theme configuration
+theme:
+  name: material
+  palette:
+    primary: brown
+    accent: orange
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+
+# Navigation structure
+nav:
+  - Home: index.md
+  - Getting Started:
+    - Installation: getting-started/installation.md
+    - Quick Start: getting-started/quick-start.md
+    - Deployment: getting-started/deployment.md
+  - Architecture:
+    - Overview: architecture/overview.md
+    - Directory Structure: architecture/directory-structure.md
+    - Theme Integration: architecture/theme-integration.md
+  - Content:
+    - Writing Posts: content/writing-posts.md
+    - Managing Pages: content/managing-pages.md
+    - Media Assets: content/media-assets.md
+  - Customization:
+    - Theme Configuration: customization/theme-configuration.md
+    - Styling: customization/styling.md
+    - Layouts: customization/layouts.md
+  - Reference:
+    - Front Matter: reference/front-matter.md
+    - Plugins: reference/plugins.md
+    - Troubleshooting: reference/troubleshooting.md
+
+# Extensions for better markdown rendering
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.details
+  - tables
+
+# Plugins
+plugins:
+  - search
+
+# Extra configuration
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/hwschuur
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/hwschuur
