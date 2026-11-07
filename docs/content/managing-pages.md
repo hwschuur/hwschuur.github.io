@@ -137,22 +137,30 @@ Contact links:
 
 ### Work/Portfolio Page (work.md)
 
+Work uses the `work` layout. Keep entries in Markdown under `## YEAR`
+headings, newest first. Add a Kramdown paragraph attribute directly after
+each entry to select its icon: `publication`, `talk`, `research`, or `lecture`.
+Place multi-year lectures under their end year and retain their full period
+in the text. The layout supplies the year columns and legend; icons live in
+`_includes/work/icon.html`, and styles live in the existing page Sass partial.
+
 ```markdown
 ---
 permalink: /work/
 title: "Work"
+layout: work
 author_profile: false
 ---
 
-Popular publications
---------------------
+## 2025
 
-[Article Title][article-link]. Publication, Year. *Format.*
+[Article Title][article-link]. Publication. *Story.*
+{: .publication}
 
-Scientific publications
------------------------
+## 2024
 
 Author Name. [Paper Title][paper-link]. Conference/Journal, Year.
+{: .research}
 
 [article-link]: https://example.com/article
 [paper-link]: https://example.com/paper

@@ -1,0 +1,28 @@
+{%- case include.type -%}
+  {%- when 'research' -%}
+    {%- assign work_icon_label = 'Research' -%}
+    {%- assign work_icon_title = 'Scientific publications' -%}
+  {%- when 'talk' -%}
+    {%- assign work_icon_label = 'Talk' -%}
+    {%- assign work_icon_title = 'Talk' -%}
+  {%- when 'lecture' -%}
+    {%- assign work_icon_label = 'Lectures' -%}
+    {%- assign work_icon_title = 'Guest lectures' -%}
+  {%- else -%}
+    {%- assign work_icon_label = 'Publications' -%}
+    {%- assign work_icon_title = 'Popular publications' -%}
+{%- endcase -%}
+<span class="work-type"{% if include.decorative %} aria-hidden="true"{% else %} role="img" aria-label="{{ work_icon_label }}" title="{{ work_icon_title }}"{% endif %}>
+  <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+    {%- case include.type -%}
+      {%- when 'research' -%}
+        <path d="m15 3 4-2 4 8-4 2zM15 4 5 9l3 6 10-5M5 10l-3 2 2 4 3-2M12 13v8M8 21l4-8 4 8"/>
+      {%- when 'talk', 'lecture' -%}
+        <rect x="3" y="3" width="18" height="12" rx="1"/>
+        <path d="M12 15v6M8 21l4-6 4 6M7 7h10M7 11h6"/>
+      {%- else -%}
+        <path d="M6 3h8l4 4v14H6z"/>
+        <path d="M14 3v5h4M9 12h6M9 16h6"/>
+    {%- endcase -%}
+  </svg>
+</span>

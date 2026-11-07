@@ -1,0 +1,43 @@
+---
+layout: single
+---
+
+<div class="work-by-year">
+  <ul class="work-legend" aria-label="Types of work">
+    <li>{% include work/icon.html type="publication" decorative=true %}<span>Publications</span></li>
+    <li>{% include work/icon.html type="research" decorative=true %}<span>Research</span></li>
+    <li>{% include work/icon.html type="talk" decorative=true %}<span>Talks &amp; lectures</span></li>
+  </ul>
+
+  {% comment %}The Markdown uses year headings and one typed paragraph per entry.{% endcomment %}
+  {% assign years = content | split: '<h2' %}
+  {% for section in years %}
+    {% if section contains '</h2>' %}
+      {% assign heading = section | split: '</h2>' | first %}
+      {% assign year = heading | split: '>' | last | strip %}
+      <section class="work-year-group" id="work-{{ year }}" aria-label="{{ year }}">
+        <h2 class="work-year">{{ year }}</h2>
+        <div class="work-year-items">
+          {% assign entries = section | split: '</h2>' | last | split: '</p>' %}
+          {% for entry in entries %}
+            {% if entry contains '<p' %}
+              {% assign opening_tag = entry | split: '>' | first | append: '>' %}
+              {% assign type = 'publication' %}
+              {% if opening_tag contains '"talk"' %}
+                {% assign type = 'talk' %}
+              {% elsif opening_tag contains '"research"' %}
+                {% assign type = 'research' %}
+              {% elsif opening_tag contains '"lecture"' %}
+                {% assign type = 'lecture' %}
+              {% endif %}
+              <p class="work-entry">
+                {% include work/icon.html type=type %}
+                <span class="work-entry-text">{{ entry | remove_first: opening_tag }}</span>
+              </p>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </section>
+    {% endif %}
+  {% endfor %}
+</div>

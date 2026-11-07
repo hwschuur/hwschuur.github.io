@@ -98,7 +98,7 @@ body {
 }
 
 .page__content {
-  h2 {
+  h2:not(.work-year) {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
   }
@@ -580,6 +580,101 @@ body {
 
     @include breakpoint($x-large) {
       padding-right: 0;
+    }
+  }
+}
+
+/*
+   Work timeline
+   ========================================================================== */
+
+.work-by-year {
+  .work-year-group {
+    display: grid;
+    grid-template-columns: 4.75em minmax(0, 1fr);
+    gap: 1.25em;
+    align-items: start;
+    margin: 0 0 2.25em;
+  }
+
+  .work-year {
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    font-weight: 600;
+    line-height: 1.5;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .work-year-items,
+  .work-entry-text {
+    min-width: 0;
+  }
+
+  .work-year-items > p:last-child {
+    margin-bottom: 0;
+  }
+
+  .work-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4em 1.5em;
+    list-style: none;
+    padding: 0;
+    margin: 0 0 2em;
+    font-size: 0.6rem;
+    color: $muted-text-color;
+    line-height: 1.5;
+
+    > li {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45em;
+      margin: 0;
+      padding: 0;
+    }
+  }
+
+  .work-type {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    inline-size: 1em;
+    block-size: 1em;
+    flex-shrink: 0;
+
+    svg {
+      display: block;
+      inline-size: 100%;
+      block-size: 100%;
+    }
+  }
+
+  .work-entry {
+    display: grid;
+    grid-template-columns: 1em minmax(0, 1fr);
+    column-gap: 0.65em;
+    align-items: start;
+
+    > .work-type {
+      margin-top: 0.25em;
+    }
+  }
+
+  .work-entry-text a {
+    text-decoration: none;
+
+    &:hover,
+    &:focus-visible {
+      text-decoration: underline;
+      text-underline-offset: 0.15em;
+    }
+  }
+
+  @media (max-width: $small) {
+    .work-year-group {
+      grid-template-columns: minmax(0, 1fr);
+      gap: 0.75em;
     }
   }
 }

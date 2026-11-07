@@ -1,71 +1,116 @@
 ---
+layout: work
 permalink: /work/
 title: "Work"
 author_profile: false
 ---
 
-Popular publications
---------------------
+## 2025
 
-[Sovereignty Over Ceremony: How True Teams Thrive Without a Scrum Master][sostrueteams]. Medium, 2025. *Story.*
+[Sovereignty Over Ceremony: How True Teams Thrive Without a Scrum Master][sostrueteams]. Medium. *Story.*
+{: .publication}
 
-[Sovereignty Over Ceremony: How True Teams Thrive Without a Scrum Master][devopsdays2025]. DevOpsDays London, 2025. *Ignite talk.*
+[Sovereignty Over Ceremony: How True Teams Thrive Without a Scrum Master][devopsdays2025]. DevOpsDays London. *Ignite talk.*
+{: .talk}
 
-[Adding Soul to the System: Our Strive for DevOps Significance][devopsdays2024]. DevOpsDays Amsterdam, 2024. *Duo talk.*
+## 2024
 
-[Be More than a Product Owner — Start Product Thinking][bemorethanapo]. Medium, 2023. *Story.*
+[Adding Soul to the System: Our Strive for DevOps Significance][devopsdays2024]. DevOpsDays Amsterdam. *Duo talk.*
+{: .talk}
 
-Manifesto for a Product Mindset in Agile Development. [Tweakers Developers Summit][tweakers2022] and [DevOpsDays Amsterdam][devopsdays2022], 2022. *Conference talks.*
+Advanced Program Zorgmanagement: Strategie & Digitale Transformatie. Nyenrode Business Universiteit, 2023--2024.
+{: .lecture}
 
-[How we work: BizDevOps][sbpbizdevops]. Schuberg Philis, 2022. *Explainer.*
+Innovation in Practice: Data & AI. Nyenrode Business Universiteit, 2023--2024.
+{: .lecture}
 
-[BizDevOps: Bridging the Dominant Divide between Business and IT][devopsdays2020]. DevOpsDays Amsterdam, 2020. *Keynote talk.*
+## 2023
 
-[BizDevOps: Bridging the Dominant Divide between the Business and IT—Or: Why DevOps Success Needs a Successor][bizdevopsstory]. Medium, 2020. *Story selected by the Medium curators for publication in the Programming section*
+[Be More than a Product Owner — Start Product Thinking][bemorethanapo]. Medium. *Story.*
+{: .publication}
 
-[Bye Bye Time & Materials---Entering the Era of Agile, Value-based Agreements][aabyebyetm]. Agile Amsterdam, 2019. *Conference talk.*
+## 2022
 
-[Bye Bye Time & Materials---Entering the Era of Agile, Value-based Agreements][byebyetmstory]. Medium, 2019. *Story selected by the Medium curators for publication in the Software Engineering section.*
+Manifesto for a Product Mindset in Agile Development. [Tweakers Developers Summit][tweakers2022] and [DevOpsDays Amsterdam][devopsdays2022]. *Conference talks.*
+{: .talk}
 
-[Ready for disruption in the mobility sector][sbpar]. Schuberg Philis, 2018. *Annual Report 2017.*
+[How we work: BizDevOps][sbpbizdevops]. Schuberg Philis. *Explainer.*
+{: .publication}
 
-[Project Self-Service. Het beste van twee werelden][pss]. IPMA Projectie Magazine, 02--2013, 2013. *Article.*
+## 2020
 
-[Pakketleveranciers laks--Softwaremakers kijken te weinig naar praktijksituatie bij klanten][agcover]. Automatisering Gids, 19, 2011. *Featured cover article.*
+[BizDevOps: Bridging the Dominant Divide between Business and IT][devopsdays2020]. DevOpsDays Amsterdam. *Keynote talk.*
+{: .talk}
 
-Scientific publications
------------------------
+[BizDevOps: Bridging the Dominant Divide between the Business and IT—Or: Why DevOps Success Needs a Successor][bizdevopsstory]. Medium. *Story selected by the Medium curators for publication in the Programming section*
+{: .publication}
+
+## 2019
+
+[Bye Bye Time & Materials---Entering the Era of Agile, Value-based Agreements][aabyebyetm]. Agile Amsterdam. *Conference talk.*
+{: .talk}
+
+[Bye Bye Time & Materials---Entering the Era of Agile, Value-based Agreements][byebyetmstory]. Medium. *Story selected by the Medium curators for publication in the Software Engineering section.*
+{: .publication}
+
+Software Production and Software Product Management. Utrecht University, 2014–2019.
+{: .lecture}
+
+## 2018
+
+[Ready for disruption in the mobility sector][sbpar]. Schuberg Philis. *Annual Report 2017.*
+{: .publication}
+
+Method Engineering. Utrecht University, 2017–2018.
+{: .lecture}
+
+## 2017
 
 H. van der Schuur, E. van de Ven, R. de Jong, D. Schunselaar, H.A. Reijers, M. Overeem, M. de Graaf, S. Jansen and S. Brinkkemper.
 [NEXT: Generating Tailored ERP Cloud Applications from Ontological Enterprise Models][poem17]. In PoEM'17: Proceedings of the 10th IFIP WG 8.1. Working Conference on the Practice of Enterprise Modeling.
 Springer, 2017, pp. 283--298.
+{: .research}
+
+Information Management. Vrije Universiteit Amsterdam.
+{: .lecture}
+
+## 2015
+
+Software Architecture. Open University.
+{: .lecture}
+
+## 2013
+
+[Project Self-Service. Het beste van twee werelden][pss]. IPMA Projectie Magazine, 02--2013. *Article.*
+{: .publication}
+
+## 2011
+
+[Pakketleveranciers laks--Softwaremakers kijken te weinig naar praktijksituatie bij klanten][agcover]. Automatisering Gids, 19. *Featured cover article.*
+{: .publication}
 
 H. van der Schuur. [Process Improvement through Software Operation Knowledge---If the SOK Fits, Wear It!][phdthesis] PhD dissertation. Utrecht University, 2011.
+{: .research}
 
 H. van der Schuur, S. Jansen and S. Brinkkemper. [Sending Out a Software Operation Summary: Leveraging Software Operation Knowledge for Prioritization of Maintenance Tasks][mensura11]. In MENSURA'11: Proceedings of the 6th International Conference on Software Process and Product Measurement. IEEE Computer Society, 2011, pages 160--169.
+{: .research}
 
 H. van der Schuur, S. Jansen and S. Brinkkemper. [If the SOK Fits, Wear It: Pragmatic Process Improvement through Software Operation Knowledge][profes11]. In PROFES'11: Proceedings of the 12th International Conference on Product Focused Software Development and Process Improvement. Springer, 2011, pages 306--321.
+{: .research}
 
 H. van der Schuur, S. Jansen and S. Brinkkemper. [Reducing Maintenance Effort through Software Operation Knowledge: An Eclectic Empirical Evaluation][csmr11]. In CSMR'11: Proceedings of the 15th European Conference on Software Maintenance and Reengineering. IEEE Computer Society, 2011, pages 201--210.
+{: .research}
+
+## 2009
 
 H. van der Schuur, S. Jansen, S. Brinkkemper et al. [On the Challenge of Creating an Attractive Research Master Program: Graduate Education Avant-la-Lettre][challengemaster]. In H. Bodlaender, W. Duivesteijn and C. Nijenhuis (eds.), Fascination for Computation. 25 jaar informatica. Utrecht University, 2009, pp. 217--240.
+{: .research}
+
+## 2008
 
 H. van der Schuur. [SKU: Software Vendor Meets End-user --- On the Utilization of Service Software Knowledge in a Software Supply Network][masterthesis]. Master thesis. Utrecht University, 2008.
 *Graded with a 9 (out of 10). Nominated for the Dutch National Thesis Award*
-
-Guest lectures
---------------
-Advanced Program Zorgmanagement: Strategie & Digitale Transformatie. Nyenrode Business Universiteit, 2023--2024.
-
-Innovation in Practice: Data & AI. Nyenrode Business Universiteit, 2023--2024.
-
-Software Production and Software Product Management. Utrecht University, 2014–2019.
-
-Method Engineering. Utrecht University, 2017–2018.
-
-Information Management. Vrije Universiteit Amsterdam, 2017.
-
-Software Architecture. Open University, 2015.
+{: .research}
 
 [sostrueteams]: https://hwschuur.medium.com/sovereignty-over-ceremony-how-true-teams-thrive-without-a-scrum-master-53747c00edce
 [devopsdays2025]: https://devopsdays.org/events/2025-london/program/henk-van-der-schuur
