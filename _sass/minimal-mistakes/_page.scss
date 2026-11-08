@@ -629,7 +629,7 @@ body {
     gap: 0.4em 1.5em;
     list-style: none;
     padding: 0;
-    margin: 0 0 2em;
+    margin: 3em 0 0;
     font-size: 0.6rem;
     color: $muted-text-color;
     line-height: 1.5;
@@ -684,5 +684,41 @@ body {
       grid-template-columns: minmax(0, 1fr);
       gap: 0.75em;
     }
+  }
+}
+
+/* Contact links */
+.contact-page .page__content {
+  a {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .contact-primary {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 1.5em;
+    row-gap: 0.5em;
+    margin: 0 0 0.8em;
+
+    a {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4em;
+      white-space: nowrap;
+    }
+
+    svg {
+      flex: none;
+    }
+  }
+
+  .contact-endmark {
+    font-size: 1rem;
+    line-height: 1;
+    margin: 4rem 0 0;
   }
 }

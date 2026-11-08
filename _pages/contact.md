@@ -12,23 +12,6 @@ I bring clarity to complexity by aligning people, purpose, and technology. I str
 
 {% include figure image_path="/assets/images/bio-photo-small.png" alt="That's me" %}
 
-You can download my resume [here][cv].
+{% include contact/links.html %}
 
-Feel free to reach out:
-
-* [Mail][mail]
-* [LinkedIn][linkedin]
-* [Mastodon][mastodon] ([X][x], [Threads][threads], [Bluesky][bsky])
-
-
-[cv]: /assets/cv-hwschuur.pdf
 [phdthesis]: https://dspace.library.uu.nl/handle/1874/213256
-[sbp]: https://schubergphilis.com/
-[mail]: mailto:hwschuur@gmail.com
-[x]: https://x.com/hwschuur
-[mastodon]: https://mastodon.social/@hwschuur
-[threads]: https://www.threads.net/@hwschuur
-[bsky]: https://bsky.app/profile/hwschuur.bsky.social
-[linkedin]: https://www.linkedin.com/in/hwschuur
-
-# ✽

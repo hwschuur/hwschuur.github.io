@@ -3,11 +3,7 @@ layout: single
 ---
 
 <div class="work-by-year">
-  <ul class="work-legend" aria-label="Types of work">
-    <li>{% include work/icon.html type="publication" decorative=true %}<span>Publications</span></li>
-    <li>{% include work/icon.html type="research" decorative=true %}<span>Research</span></li>
-    <li>{% include work/icon.html type="talk" decorative=true %}<span>Talks &amp; lectures</span></li>
-  </ul>
+
 
   {% comment %}The Markdown uses year headings and one typed paragraph per entry.{% endcomment %}
   {% assign years = content | split: '<h2' %}
@@ -40,4 +36,9 @@ layout: single
       </section>
     {% endif %}
   {% endfor %}
+  <ul class="work-legend" aria-label="Types of work">
+    <li>{% include work/icon.html type="publication" decorative=true %}<span>Publications</span></li>
+    <li>{% include work/icon.html type="research" decorative=true %}<span>Research</span></li>
+    <li>{% include work/icon.html type="talk" decorative=true %}<span>Talks &amp; lectures</span></li>
+  </ul>
 </div>
