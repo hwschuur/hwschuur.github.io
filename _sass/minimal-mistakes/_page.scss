@@ -149,6 +149,14 @@ body {
     }
   }
 
+  > p:first-of-type {
+    .contact-page & {
+      @include breakpoint($x-large) {
+        width: calc(100% + 3rem);
+      }
+    }
+  }
+
   a:not(.btn) {
     &:hover {
       text-decoration: underline;
